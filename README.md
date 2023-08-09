@@ -1,4 +1,4 @@
-# Michal Maxian's CV Summary
+# Michal Maxian's CV
 
 ## Profile:
 - **Michal Maxian** is an experienced IT professional with a strong background in Linux/UNIX solutions, DevOps, and Agile methodologies.
